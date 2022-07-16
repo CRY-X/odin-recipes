@@ -1,0 +1,57 @@
+body {
+    background-color: bisque;
+}
+
+#mainHeader {
+    text-align: center;
+}
+
+.recipeHeader {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+.recipeLinks {
+    text-align: center;
+}
+
+#mainHeaderPic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.recipePic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.description {
+    color: teal;
+}
+
+.ingredients {
+    color: blueviolet;
+    text-transform: uppercase;
+}
+
+.steps {
+    color: brown;
+    text-transform: uppercase;
+}
+
+.ulClass {
+    font-weight: bold;
+}
+
+.olClass {
+    font-style: oblique;
+    font-weight: 500;
+}
+
+
